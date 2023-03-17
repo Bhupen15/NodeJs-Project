@@ -16,4 +16,4 @@
 
 const colors = require('colors')
 
-console.log("I'm colorful".red)
+console.log("I'm colorful all days".red)
